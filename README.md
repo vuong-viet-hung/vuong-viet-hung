@@ -12,7 +12,7 @@ Researches on application of deep learning in bearing fault diagnosis from [Mand
 | --- | --- | --- |
 | [hust-bearing](https://github.com/vuong-viet-hung/hust-bearing) | A Python library for deep learning-based bearing fault diagnosis | Completed |
 | [BearingSpectrogram](https://github.com/vuong-viet-hung/BearingSpectrogram) | A MATLAB project for signal segmentation and transform on popular bearing datasets | Completed |
-| [BearingSimulation](https://github.com/vuong-viet-hung/BearingSimulation) | A MATLAB project for simulation of vibration signal based on bearing geometry | Private |
+| [BearingSimulation](https://github.com/vuong-viet-hung/BearingSimulation) | A MATLAB project for simulation of vibration signal based on bearing geometry | Completed |
 | [Bearing-Fault-Simulation-Python](https://github.com/vuong-viet-hung/Bearing-Fault-Simulation-Python) | A Python project for simulation of vibration signal based on bearing geometry | Private |
 
 
