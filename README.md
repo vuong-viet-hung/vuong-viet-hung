@@ -16,7 +16,7 @@ Researches on application of deep learning in bearing fault diagnosis from [Mand
 
 
 ### 3D Computer Vision
-
+(These projects are no longer maintained, I'll give update soon)
 Researches on LiDAR-based computer vision tasks for autonomous vehicles from [ANDA Lab](https://github.com/orgs/ANDA-Researchers/repositories), Soongsil University
 
 | Project | Description | Project status |
