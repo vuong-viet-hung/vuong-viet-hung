@@ -22,7 +22,7 @@ Researches on LiDAR-based computer vision tasks for autonomous vehicles from [AN
 
 | Project | Description | Project status |
 | --- | --- | --- |
-| [centroidformer](https://github.com/ANDA-Researchers/P3Former) | The official implementation of CentroidFormer paper | In progress |
-| [Cylinder3D](https://github.com/ANDA-Researchers/MaskPLS) | A unofficial implementation of Cylinder3D paper based on TorchSparse | Completed |
-| [PUPS](https://github.com/ANDA-Researchers/PUPS) | A unofficial implementation of PUPS paper | In progress |
-| [Pointcloud_Denoising_Snowy](https://github.com/ANDA-Researchers/Pointcloud_Denoising_Snowy) | | Completed |
+| [centroidformer](https://github.com/ANDA-Researchers/P3Former) | The official implementation of CentroidFormer paper | Deprecated |
+| [Cylinder3D](https://github.com/ANDA-Researchers/MaskPLS) | A unofficial implementation of Cylinder3D paper based on TorchSparse | Deprecated |
+| [PUPS](https://github.com/ANDA-Researchers/PUPS) | A unofficial implementation of PUPS paper | Deprecated |
+| [Pointcloud_Denoising_Snowy](https://github.com/ANDA-Researchers/Pointcloud_Denoising_Snowy) | | Deprecated |
