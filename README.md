@@ -16,13 +16,9 @@ Researches on application of deep learning in bearing fault diagnosis from [Mand
 
 
 ### 3D Computer Vision
-(These projects are no longer maintained, I'll give update soon)
 
 Researches on LiDAR-based computer vision tasks for autonomous vehicles from [ANDA Lab](https://github.com/orgs/ANDA-Researchers/repositories), Soongsil University
 
 | Project | Description | Project status |
 | --- | --- | --- |
-| [centroidformer](https://github.com/ANDA-Researchers/P3Former) | The official implementation of CentroidFormer paper | Deprecated |
-| [Cylinder3D](https://github.com/ANDA-Researchers/MaskPLS) | A unofficial implementation of Cylinder3D paper based on TorchSparse | Deprecated |
-| [PUPS](https://github.com/ANDA-Researchers/PUPS) | A unofficial implementation of PUPS paper | Deprecated |
-| [Pointcloud_Denoising_Snowy](https://github.com/ANDA-Researchers/Pointcloud_Denoising_Snowy) | | Deprecated |
+| [semantic-kitti-api-v2.0]([https://github.com/ANDA-Researchers/P3Former](https://github.com/ANDA-Researchers/semanatic-kitti-api-v2.0#)) | A modern alternative to the official semantic-kitti-api | In progress |
