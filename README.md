@@ -22,4 +22,4 @@ Researches on LiDAR-based computer vision tasks for autonomous vehicles from [AN
 | Project | Description | Project status |
 | --- | --- | --- |
 | [semantic-kitti-api-v2.0](https://github.com/ANDA-Researchers/semanatic-kitti-api-v2.0) | A modern alternative to the official semantic-kitti-api | In progress |
-| [mask4d](https://github.com/ANDA-Researchers/mask4d) | Mask4D with updated installation instruction | In progress |
+| [mask4d-spconv2](https://github.com/ANDA-Researchers/mask4d) | Mask4D with spconv 2.x back-end support | In progress |
